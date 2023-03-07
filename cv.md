@@ -24,3 +24,27 @@ As a participant of the IT Generation grant program from the Ministry of Digital
 
 Area of interests: music, video production, tech problem solutions.
 I'm open to new knowledges and projects.<br>
+
+---
+
+### Skills and Proficiency:
+
+- HTML/CSS/SASS, Responsive/Adaptive design, Bootstrap
+- JavaScript, TypeScript
+- React, Redux, Next, REST API, Handlebars
+- Git, GitHub
+- VS Code
+
+---
+
+### Soft Skills:
+
+- Approachable
+- Team worker but at the same time autonomous
+- Calm and Quiet
+- Committed
+- Conscientious
+- Eager to learn
+- Honest
+
+---

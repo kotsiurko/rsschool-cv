@@ -48,3 +48,24 @@ I'm open to new knowledges and projects.<br>
 - Honest
 
 ---
+
+### Code example:
+
+**Highest and Lowest KATA from CODEWARS:**
+_In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number._
+
+```javascript
+function highAndLow(numbers) {
+  const numbersArr = numbers.split(" ").map((el) => Number(el));
+  const maxVal = Math.max(...numbersArr);
+  const minVal = Math.min(...numbersArr);
+  return `${maxVal} ${minVal}`;
+}
+```
+
+---
+
+### Languages:
+
+- Ukrainian \- Native
+- English - Intermediate
